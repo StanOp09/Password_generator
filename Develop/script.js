@@ -167,6 +167,7 @@ function generatePassword() {
   return printPassword(passwordSuggestions);
 }
 
+// added function to store requested characters
 function printPassword(passwordSuggestions) {
   if (!passwordSuggestions) {
     return "Select valid password suggestions!"
