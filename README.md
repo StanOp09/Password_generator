@@ -26,9 +26,9 @@ THEN the password is either displayed in an alert or written to the page
 ## Method
 Starter codes for index.html, style.css and script.js were provided by Sean Roshan. The script.js file was editted to ensure that above acceptance criteria were met. Various funtions were created and are shown in the attached link for github below.
 
-The github repository can be found at https://github.com/StanOp09/Project3
+The github repository can be found at https://github.com/StanOp09/Password_generator
 
-The live website is hosted at https://stanop09.github.io/Project3/Develop
+The live website is hosted at https://stanop09.github.io/Password_generator/Develop
 
 ## Appearance and Functionality
 ![Passwordgenerator](image.png)
