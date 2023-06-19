@@ -28,10 +28,12 @@ Starter codes for index.html, style.css and script.js were provided by Sean Rosh
 
 The github repository can be found at https://github.com/StanOp09/Project3
 
-The live website is hosted at https://stanop09.github.io/Project3
+The live website is hosted at https://stanop09.github.io/Project3/
 
 ## Appearance and Functionality
+![Passwordgenerator](image.png)
 
 ## Credits
 Sean Roshan
+
 ChatGPT
