@@ -150,7 +150,7 @@ function getSuggestions() {
   var useLowercase = confirm("Include lowercase letters in the password?");
   var useNumbers = confirm("Include numbers in the password?");
   var useSpecial = confirm("Include special characters in the password?");
-
+// return characters confirmed by user
   return {
     passwordLength,
     useUppercase,
