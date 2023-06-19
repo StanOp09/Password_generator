@@ -195,7 +195,6 @@ function printPassword(passwordSuggestions) {
     chosenCharacterSet.push(randomPicker(passwordChoices.special));
   }
 
-
 console.log(completeCharacterSet)
 console.log(chosenCharacterSet)
 
@@ -206,11 +205,7 @@ console.log(chosenCharacterSet)
   }
   console.log(finalCharaterSet.join(""));
   return characterShuffle(finalCharaterSet.join(""));
-
-
 }
-
-
 
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
@@ -221,7 +216,6 @@ function writePassword() {
   var passwordText = document.querySelector("#password");
 
   passwordText.value = password;
-
 }
 
 // Add event listener to generate button
